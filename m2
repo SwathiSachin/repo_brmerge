@@ -1,1 +1,1 @@
-Second file in repo_brmerge.
+This is second file in repo_brmerge.
